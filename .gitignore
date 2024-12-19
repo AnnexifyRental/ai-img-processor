@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.cache
+*.pyc
+*.pkl
+*.h5
+
+# TensorFlow checkpoints and logs
+checkpoint
+logs/
+*.ckpt
+*.tflite
+
+# Dataset or large files
+Dataset/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Model files
+*.pb
+*.keras
+*.h5
+*.onnx
+*.tflite
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
